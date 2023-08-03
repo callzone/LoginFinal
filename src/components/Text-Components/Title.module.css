@@ -1,0 +1,18 @@
+#titleDiv{
+    padding: 0px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#titleDiv h1{
+
+    font-size: 3rem;
+    padding: 0px 0px 40px 0px;
+}
+
+#titleDiv h3{
+    font-size: 2rem;
+}
